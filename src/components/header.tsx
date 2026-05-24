@@ -14,18 +14,11 @@ export function Header() {
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-4 sm:px-6">
         <Link href="/" className="flex items-center gap-2.5">
           <Image
-            src="/logo-white.svg"
+            src="/logo.svg"
             alt="Struxa"
             width={20}
             height={20}
-            className="hidden dark:block"
-          />
-          <Image
-            src="/logo-dark.svg"
-            alt="Struxa"
-            width={20}
-            height={20}
-            className="block dark:hidden"
+            className="dark:invert"
           />
           <span className="font-heading text-sm font-medium tracking-tight">
             Eggs Explorer

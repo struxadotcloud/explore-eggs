@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { SearchBar } from "@/components/search-bar";
@@ -23,6 +24,21 @@ const CATEGORY_DESCRIPTIONS: Record<EggCategory, string> = {
 };
 
 export const dynamicParams = false;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ category: string }>;
+}): Promise<Metadata> {
+  const { category } = await params;
+  const label = CATEGORY_LABELS[category as EggCategory] ?? category;
+  const description = CATEGORY_DESCRIPTIONS[category as EggCategory];
+  return {
+    title: label,
+    description,
+    openGraph: { title: label, description },
+  };
+}
 
 export function generateStaticParams() {
   return VALID_CATEGORIES.map((category) => ({ category }));

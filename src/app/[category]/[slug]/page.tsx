@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { EggDetail } from "@/components/egg-detail";
@@ -9,6 +10,29 @@ const eggs = eggsData as unknown as Egg[];
 const VALID_CATEGORIES: EggCategory[] = ["applications", "games", "generic"];
 
 export const dynamicParams = false;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ category: string; slug: string }>;
+}): Promise<Metadata> {
+  const { category, slug } = await params;
+  const egg = eggs.find((e) => e.category === category && e.slug === slug);
+  if (!egg) return {};
+  const description = egg.description.trim()
+    ? egg.description.length > 155
+      ? egg.description.slice(0, 152) + "…"
+      : egg.description
+    : `${egg.name} egg definition for Pterodactyl.`;
+  return {
+    title: egg.name,
+    description,
+    openGraph: {
+      title: `${egg.name} — Eggs Explorer`,
+      description,
+    },
+  };
+}
 
 export function generateStaticParams() {
   return eggs.map((e) => ({ category: e.category, slug: e.slug }));

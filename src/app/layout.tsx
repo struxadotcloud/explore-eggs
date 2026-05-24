@@ -19,9 +19,28 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL ?? "https://eggs.struxa.app";
+
 export const metadata: Metadata = {
-  title: "Eggs Explorer",
-  description: "Browse Pterodactyl and Pelican egg definitions",
+  title: {
+    default: "Eggs Explorer",
+    template: "%s — Eggs Explorer",
+  },
+  description:
+    "Browse Pterodactyl egg definitions across applications, games, and generic utilities.",
+  metadataBase: new URL(BASE_URL),
+  openGraph: {
+    siteName: "Eggs Explorer",
+    type: "website",
+    images: [{ url: "https://static.struxa.cloud/social/og.jpeg", width: 1280, height: 640, alt: "Eggs Explorer" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["https://static.struxa.cloud/social/og.jpeg"],
+  },
+  icons: {
+    icon: { url: "/logo-dark.svg", type: "image/svg+xml" },
+  },
 };
 
 export default function RootLayout({

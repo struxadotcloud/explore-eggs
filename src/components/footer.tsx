@@ -5,17 +5,6 @@ export function Footer() {
         <p className="text-xs text-muted-foreground">
           &copy; {new Date().getFullYear()} Struxa. Open source.
         </p>
-        <p className="text-xs text-muted-foreground">
-          Data sourced from{" "}
-          <a
-            href="https://github.com/pelican-eggs/pelican-eggs"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline underline-offset-2 hover:text-foreground transition-colors"
-          >
-            pelican-eggs
-          </a>
-        </p>
       </div>
     </footer>
   );
