@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# explore-eggs
 
-First, run the development server:
+**A static browser for Pterodactyl egg definitions.**
+Fetches, categorizes, and serves all official eggs — built for the Struxa ecosystem.
+
+<br />
+
+![GitHub Stars](https://www.shieldcn.dev/github/stars/struxadotcloud/explore-eggs.svg?variant=secondary&size=sm)
+![Last commit](https://www.shieldcn.dev/github/last-commit/struxadotcloud/explore-eggs.svg?variant=secondary&size=sm)
+![Open issues](https://www.shieldcn.dev/github/open-issues/struxadotcloud/explore-eggs.svg?variant=secondary&size=sm)
+![License · MIT](https://www.shieldcn.dev/badge/License-MIT-000000.svg?variant=secondary&size=sm)
+
+![Package mgr · Bun](https://www.shieldcn.dev/badge/Package_mgr-Bun-000000.svg?logo=bun&variant=branded&size=sm)
+![Language · TypeScript](https://www.shieldcn.dev/badge/Language-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![Framework · Next.js](https://www.shieldcn.dev/badge/Framework-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
+
+<img src="https://static.struxa.cloud/social/og.jpeg" alt="Eggs Explorer preview" width="860" />
+
+</div>
+
+<br />
+
+Eggs Explorer is a fully static site that indexes all official [Pterodactyl](https://pterodactyl.io) egg definitions across three categories — applications, games, and generic utilities. Data is fetched from the official repos on a daily schedule via GitHub Actions and baked into the build at compile time.
+
+## Sources
+
+| Repo | Category |
+|---|---|
+| [pterodactyl/application-eggs](https://github.com/pterodactyl/application-eggs) | Applications |
+| [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs) | Games |
+| [pterodactyl/generic-eggs](https://github.com/pterodactyl/generic-eggs) | Generic |
+
+## Development
+
+Fetch latest egg data (requires a GitHub token):
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+GITHUB_TOKEN=your_token bun run fetch-eggs
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Start the dev server:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+bun run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Build the static site:
 
-## Learn More
+```bash
+bun run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Output is written to `out/` and can be served from any static host.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Related repositories
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Repository | Description |
+|---|---|
+| [struxadotcloud/struxa](https://github.com/struxadotcloud/struxa) | Main panel — web UI, API, database |
+| [struxadotcloud/wings](https://github.com/struxadotcloud/wings) | Node agent — server lifecycle, file management, SFTP |
+| [struxadotcloud/explore-eggs](https://github.com/struxadotcloud/explore-eggs) | This repo — egg browser |
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[MIT](./LICENSE)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<br />
+
+<div align="center">
+
+<sub>Part of the Struxa project.</sub>
+
+</div>
