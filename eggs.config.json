@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "repo": "pterodactyl/application-eggs",
+      "branch": "main",
+      "category": "applications"
+    },
+    {
+      "repo": "pterodactyl/generic-eggs",
+      "branch": "main",
+      "category": "generic"
+    },
+    {
+      "repo": "pterodactyl/game-eggs",
+      "branch": "main",
+      "category": "games"
+    }
+  ]
+}

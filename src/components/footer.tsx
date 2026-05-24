@@ -1,0 +1,22 @@
+export function Footer() {
+  return (
+    <footer className="border-t border-border bg-background">
+      <div className="mx-auto flex h-12 max-w-7xl items-center justify-between px-4 sm:px-6">
+        <p className="text-xs text-muted-foreground">
+          &copy; {new Date().getFullYear()} Struxa. Open source.
+        </p>
+        <p className="text-xs text-muted-foreground">
+          Data sourced from{" "}
+          <a
+            href="https://github.com/pelican-eggs/pelican-eggs"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-2 hover:text-foreground transition-colors"
+          >
+            pelican-eggs
+          </a>
+        </p>
+      </div>
+    </footer>
+  );
+}
