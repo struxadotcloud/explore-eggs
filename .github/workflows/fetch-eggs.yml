@@ -1,26 +1,16 @@
-name: Fetch Eggs & Deploy
+name: Fetch Eggs
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
-  fetch-and-build:
+  fetch-and-commit:
     runs-on: ubuntu-latest
-    outputs:
-      has-changes: ${{ steps.check.outputs.has-changes }}
     steps:
       - uses: actions/checkout@v4
 
@@ -36,40 +26,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Check for changes
-        id: check
-        run: |
-          git diff --quiet src/data/eggs.json && echo "has-changes=false" >> "$GITHUB_OUTPUT" || echo "has-changes=true" >> "$GITHUB_OUTPUT"
-
       - name: Commit updated eggs.json
-        if: steps.check.outputs.has-changes == 'true'
         run: |
+          git diff --quiet src/data/eggs.json && exit 0
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/eggs.json
-          git commit -m "chore: update eggs data [skip ci]"
+          git commit -m "chore: update eggs data"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Build static site
-        run: bun run build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: out/
-
-  deploy:
-    needs: fetch-and-build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
