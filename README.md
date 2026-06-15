@@ -70,6 +70,6 @@ Output is written to `out/` and can be served from any static host.
 
 <div align="center">
 
-<sub>Part of the Struxa project.</sub>
+<sub>Copyright (c) The Hosting Company Ltd</sub>
 
 </div>
