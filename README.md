@@ -70,6 +70,6 @@ Output is written to `out/` and can be served from any static host.
 
 <div align="center">
 
-<sub>Copyright (c) The Hosting Company Ltd</sub>
+<sub>Copyright (c) Disaster Limited</sub>
 
 </div>
