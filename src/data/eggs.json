@@ -33,7 +33,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:07.106Z"
+    "updatedAt": "2026-06-27T06:50:26.725Z"
   },
   {
     "slug": "aoede",
@@ -116,7 +116,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:07.781Z"
+    "updatedAt": "2026-06-27T06:50:27.331Z"
   },
   {
     "slug": "bastion",
@@ -228,7 +228,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:08.065Z"
+    "updatedAt": "2026-06-27T06:50:27.603Z"
   },
   {
     "slug": "corpbot",
@@ -275,7 +275,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:08.294Z"
+    "updatedAt": "2026-06-27T06:50:27.854Z"
   },
   {
     "slug": "dynamica",
@@ -364,7 +364,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:08.668Z"
+    "updatedAt": "2026-06-27T06:50:28.208Z"
   },
   {
     "slug": "fragbot",
@@ -400,7 +400,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:08.972Z"
+    "updatedAt": "2026-06-27T06:50:28.499Z"
   },
   {
     "slug": "game-server-watcher",
@@ -512,7 +512,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:09.244Z"
+    "updatedAt": "2026-06-27T06:50:28.753Z"
   },
   {
     "slug": "jmusicbot",
@@ -638,7 +638,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:09.540Z"
+    "updatedAt": "2026-06-27T06:50:29.010Z"
   },
   {
     "slug": "muse",
@@ -720,7 +720,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:09.834Z"
+    "updatedAt": "2026-06-27T06:50:29.306Z"
   },
   {
     "slug": "parkertron",
@@ -745,7 +745,7 @@
     "startup": "./parkertron",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:10.117Z"
+    "updatedAt": "2026-06-27T06:50:29.574Z"
   },
   {
     "slug": "pixel-bot",
@@ -819,7 +819,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:10.401Z"
+    "updatedAt": "2026-06-27T06:50:29.849Z"
   },
   {
     "slug": "red",
@@ -875,7 +875,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:10.617Z"
+    "updatedAt": "2026-06-27T06:50:30.147Z"
   },
   {
     "slug": "ree6",
@@ -1251,7 +1251,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:10.860Z"
+    "updatedAt": "2026-06-27T06:50:30.449Z"
   },
   {
     "slug": "sinusbot",
@@ -1283,7 +1283,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:11.180Z"
+    "updatedAt": "2026-06-27T06:50:30.701Z"
   },
   {
     "slug": "big-brother-bot",
@@ -1313,7 +1313,7 @@
     "startup": "python b3_run.py",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:11.678Z"
+    "updatedAt": "2026-06-27T06:50:31.161Z"
   },
   {
     "slug": "jts3servermod",
@@ -1353,7 +1353,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:12.080Z"
+    "updatedAt": "2026-06-27T06:50:31.605Z"
   },
   {
     "slug": "phantombot",
@@ -1457,7 +1457,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:12.525Z"
+    "updatedAt": "2026-06-27T06:50:32.040Z"
   },
   {
     "slug": "sogebot",
@@ -1493,7 +1493,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:12.818Z"
+    "updatedAt": "2026-06-27T06:50:32.303Z"
   },
   {
     "slug": "code-server",
@@ -1541,7 +1541,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:13.031Z"
+    "updatedAt": "2026-06-27T06:50:32.556Z"
   },
   {
     "slug": "mongodb-7",
@@ -1590,7 +1590,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:13.765Z"
+    "updatedAt": "2026-06-27T06:50:33.192Z"
   },
   {
     "slug": "mongodb-8",
@@ -1639,7 +1639,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:13.747Z"
+    "updatedAt": "2026-06-27T06:50:33.189Z"
   },
   {
     "slug": "rethinkdb",
@@ -1691,7 +1691,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:13.997Z"
+    "updatedAt": "2026-06-27T06:50:33.484Z"
   },
   {
     "slug": "redis-5",
@@ -1731,7 +1731,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:14.458Z"
+    "updatedAt": "2026-06-27T06:50:33.950Z"
   },
   {
     "slug": "redis-6",
@@ -1771,7 +1771,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:14.716Z"
+    "updatedAt": "2026-06-27T06:50:34.244Z"
   },
   {
     "slug": "redis-7",
@@ -1811,7 +1811,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:15.070Z"
+    "updatedAt": "2026-06-27T06:50:34.534Z"
   },
   {
     "slug": "mariadb",
@@ -1845,7 +1845,7 @@
     "startup": "${MARIADB_EXECUTABLE}",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:15.618Z"
+    "updatedAt": "2026-06-27T06:50:34.981Z"
   },
   {
     "slug": "postgres-13",
@@ -1887,7 +1887,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:15.847Z"
+    "updatedAt": "2026-06-27T06:50:35.267Z"
   },
   {
     "slug": "postgres-14",
@@ -1929,7 +1929,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:15.870Z"
+    "updatedAt": "2026-06-27T06:50:35.254Z"
   },
   {
     "slug": "postgres-15",
@@ -1971,7 +1971,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:15.859Z"
+    "updatedAt": "2026-06-27T06:50:35.287Z"
   },
   {
     "slug": "postgres-16",
@@ -2013,7 +2013,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:15.863Z"
+    "updatedAt": "2026-06-27T06:50:35.278Z"
   },
   {
     "slug": "postgres-17",
@@ -2055,7 +2055,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:15.870Z"
+    "updatedAt": "2026-06-27T06:50:35.283Z"
   },
   {
     "slug": "elasticsearch",
@@ -2104,7 +2104,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:16.100Z"
+    "updatedAt": "2026-06-27T06:50:35.546Z"
   },
   {
     "slug": "folding-home",
@@ -2198,7 +2198,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:16.395Z"
+    "updatedAt": "2026-06-27T06:50:35.789Z"
   },
   {
     "slug": "forgejo",
@@ -2256,7 +2256,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:16.669Z"
+    "updatedAt": "2026-06-27T06:50:36.039Z"
   },
   {
     "slug": "gitea",
@@ -2314,7 +2314,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:16.925Z"
+    "updatedAt": "2026-06-27T06:50:36.287Z"
   },
   {
     "slug": "grafana",
@@ -2363,7 +2363,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:17.243Z"
+    "updatedAt": "2026-06-27T06:50:36.540Z"
   },
   {
     "slug": "haste-server",
@@ -2393,7 +2393,7 @@
     "startup": "npm start",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:17.517Z"
+    "updatedAt": "2026-06-27T06:50:36.850Z"
   },
   {
     "slug": "languagetool",
@@ -2433,7 +2433,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:17.768Z"
+    "updatedAt": "2026-06-27T06:50:37.116Z"
   },
   {
     "slug": "lavalink",
@@ -2491,7 +2491,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:18.066Z"
+    "updatedAt": "2026-06-27T06:50:37.364Z"
   },
   {
     "slug": "meilisearch",
@@ -2593,7 +2593,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:18.357Z"
+    "updatedAt": "2026-06-27T06:50:37.623Z"
   },
   {
     "slug": "minio-s3",
@@ -2633,7 +2633,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:18.609Z"
+    "updatedAt": "2026-06-27T06:50:37.881Z"
   },
   {
     "slug": "loki",
@@ -2673,7 +2673,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:19.130Z"
+    "updatedAt": "2026-06-27T06:50:38.310Z"
   },
   {
     "slug": "prometheus",
@@ -2716,7 +2716,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:19.364Z"
+    "updatedAt": "2026-06-27T06:50:38.570Z"
   },
   {
     "slug": "nats",
@@ -2792,7 +2792,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:19.721Z"
+    "updatedAt": "2026-06-27T06:50:38.804Z"
   },
   {
     "slug": "owncast-online",
@@ -2886,7 +2886,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:19.963Z"
+    "updatedAt": "2026-06-27T06:50:39.056Z"
   },
   {
     "slug": "rabbitmq",
@@ -2925,7 +2925,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:20.194Z"
+    "updatedAt": "2026-06-27T06:50:39.319Z"
   },
   {
     "slug": "rathole",
@@ -2974,7 +2974,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:20.501Z"
+    "updatedAt": "2026-06-27T06:50:39.582Z"
   },
   {
     "slug": "reposilite",
@@ -3018,7 +3018,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:20.771Z"
+    "updatedAt": "2026-06-27T06:50:39.822Z"
   },
   {
     "slug": "sftp-storage-share",
@@ -3048,7 +3048,7 @@
     "startup": "echo -e \"\\n\\n\\033[0;31mThere is no need to start this server. The SFTP service is always running. Feel free to stop the server now.\\n\\t\\033[0;36m(Sub-users can be added via the Users tab to add/remove access to the share in real time)\\n\\n\"",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:21.001Z"
+    "updatedAt": "2026-06-27T06:50:40.063Z"
   },
   {
     "slug": "uptime-kuma",
@@ -3102,7 +3102,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:21.308Z"
+    "updatedAt": "2026-06-27T06:50:40.313Z"
   },
   {
     "slug": "teamspeak6-server-arm64",
@@ -3295,7 +3295,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:21.821Z"
+    "updatedAt": "2026-06-27T06:50:40.742Z"
   },
   {
     "slug": "teamspeak6-server",
@@ -3488,7 +3488,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:21.808Z"
+    "updatedAt": "2026-06-27T06:50:40.762Z"
   },
   {
     "slug": "teamspeak3-server-arm64",
@@ -3555,7 +3555,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:22.108Z"
+    "updatedAt": "2026-06-27T06:50:41.019Z"
   },
   {
     "slug": "ts3-manager",
@@ -3607,7 +3607,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:22.349Z"
+    "updatedAt": "2026-06-27T06:50:41.290Z"
   },
   {
     "slug": "yarr",
@@ -3648,7 +3648,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:22.610Z"
+    "updatedAt": "2026-06-27T06:50:41.548Z"
   },
   {
     "slug": "bun",
@@ -3760,7 +3760,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:23.761Z"
+    "updatedAt": "2026-06-27T06:50:42.421Z"
   },
   {
     "slug": "generic-c",
@@ -3861,7 +3861,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:24.065Z"
+    "updatedAt": "2026-06-27T06:50:42.684Z"
   },
   {
     "slug": "dart-generic",
@@ -3959,7 +3959,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:24.385Z"
+    "updatedAt": "2026-06-27T06:50:43.064Z"
   },
   {
     "slug": "deno-generic",
@@ -4037,7 +4037,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:24.662Z"
+    "updatedAt": "2026-06-27T06:50:43.459Z"
   },
   {
     "slug": "elixir",
@@ -4126,7 +4126,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:24.914Z"
+    "updatedAt": "2026-06-27T06:50:43.717Z"
   },
   {
     "slug": "golang-generic",
@@ -4174,7 +4174,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:25.314Z"
+    "updatedAt": "2026-06-27T06:50:43.970Z"
   },
   {
     "slug": "generic-java",
@@ -4212,7 +4212,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:25.709Z"
+    "updatedAt": "2026-06-27T06:50:44.214Z"
   },
   {
     "slug": "luvit-generic",
@@ -4306,7 +4306,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:26.234Z"
+    "updatedAt": "2026-06-27T06:50:44.682Z"
   },
   {
     "slug": "node-js-generic",
@@ -4438,7 +4438,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:26.644Z"
+    "updatedAt": "2026-06-27T06:50:44.927Z"
   },
   {
     "slug": "nodemon",
@@ -4560,7 +4560,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:26.887Z"
+    "updatedAt": "2026-06-27T06:50:45.275Z"
   },
   {
     "slug": "python-generic",
@@ -4678,7 +4678,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:27.188Z"
+    "updatedAt": "2026-06-27T06:50:45.524Z"
   },
   {
     "slug": "rust-generic",
@@ -4751,7 +4751,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:27.462Z"
+    "updatedAt": "2026-06-27T06:50:45.869Z"
   },
   {
     "slug": "7-days-to-die",
@@ -4856,7 +4856,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:28.881Z"
+    "updatedAt": "2026-06-27T06:50:46.776Z"
   },
   {
     "slug": "archean",
@@ -4995,7 +4995,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:29.138Z"
+    "updatedAt": "2026-06-27T06:50:47.043Z"
   },
   {
     "slug": "aska",
@@ -5127,7 +5127,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:29.387Z"
+    "updatedAt": "2026-06-27T06:50:47.309Z"
   },
   {
     "slug": "leaguesandbox",
@@ -5151,7 +5151,7 @@
     "startup": "./GameServerConsole --port {{SERVER_PORT}}",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:29.665Z"
+    "updatedAt": "2026-06-27T06:50:47.564Z"
   },
   {
     "slug": "nazi-zombies-portable",
@@ -5218,7 +5218,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:29.954Z"
+    "updatedAt": "2026-06-27T06:50:47.820Z"
   },
   {
     "slug": "nightingale",
@@ -5339,7 +5339,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:30.191Z"
+    "updatedAt": "2026-06-27T06:50:48.076Z"
   },
   {
     "slug": "supertuxkart",
@@ -5416,7 +5416,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:30.495Z"
+    "updatedAt": "2026-06-27T06:50:48.416Z"
   },
   {
     "slug": "abiotic-factor",
@@ -5512,7 +5512,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:30.796Z"
+    "updatedAt": "2026-06-27T06:50:48.705Z"
   },
   {
     "slug": "aloft",
@@ -5689,7 +5689,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:31.089Z"
+    "updatedAt": "2026-06-27T06:50:48.949Z"
   },
   {
     "slug": "america-s-army-proving-grounds",
@@ -5756,7 +5756,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:31.606Z"
+    "updatedAt": "2026-06-27T06:50:49.368Z"
   },
   {
     "slug": "bettercrewlink-server",
@@ -5839,7 +5839,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:32.109Z"
+    "updatedAt": "2026-06-27T06:50:49.786Z"
   },
   {
     "slug": "among-us-impostor-server",
@@ -5881,7 +5881,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:32.408Z"
+    "updatedAt": "2026-06-27T06:50:50.023Z"
   },
   {
     "slug": "ark-survival-ascended",
@@ -6031,7 +6031,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:32.660Z"
+    "updatedAt": "2026-06-27T06:50:50.276Z"
   },
   {
     "slug": "ark-survival-evolved",
@@ -6181,7 +6181,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:32.973Z"
+    "updatedAt": "2026-06-27T06:50:50.517Z"
   },
   {
     "slug": "arma-3",
@@ -6412,7 +6412,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:33.414Z"
+    "updatedAt": "2026-06-27T06:50:50.927Z"
   },
   {
     "slug": "arma-reforger",
@@ -6580,7 +6580,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:33.951Z"
+    "updatedAt": "2026-06-27T06:50:51.354Z"
   },
   {
     "slug": "assetto-corsa-freeroam-ai",
@@ -6650,7 +6650,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:34.239Z"
+    "updatedAt": "2026-06-27T06:50:51.602Z"
   },
   {
     "slug": "assetto-corsa",
@@ -6773,7 +6773,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:34.239Z"
+    "updatedAt": "2026-06-27T06:50:51.731Z"
   },
   {
     "slug": "astro-colony",
@@ -6939,7 +6939,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:34.719Z"
+    "updatedAt": "2026-06-27T06:50:52.228Z"
   },
   {
     "slug": "astroneer-dedicated-server",
@@ -7047,7 +7047,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:35.001Z"
+    "updatedAt": "2026-06-27T06:50:52.478Z"
   },
   {
     "slug": "automobilista-2",
@@ -7149,7 +7149,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:35.324Z"
+    "updatedAt": "2026-06-27T06:50:52.815Z"
   },
   {
     "slug": "avorion",
@@ -7335,7 +7335,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:35.613Z"
+    "updatedAt": "2026-06-27T06:50:53.129Z"
   },
   {
     "slug": "banana-shooter",
@@ -7440,7 +7440,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:35.847Z"
+    "updatedAt": "2026-06-27T06:50:53.388Z"
   },
   {
     "slug": "barotrauma",
@@ -7491,7 +7491,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:36.137Z"
+    "updatedAt": "2026-06-27T06:50:53.632Z"
   },
   {
     "slug": "battalion-legacy",
@@ -7569,7 +7569,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:36.444Z"
+    "updatedAt": "2026-06-27T06:50:53.894Z"
   },
   {
     "slug": "beammp-servers",
@@ -7681,7 +7681,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:36.875Z"
+    "updatedAt": "2026-06-27T06:50:54.384Z"
   },
   {
     "slug": "kissmp-server",
@@ -7706,7 +7706,7 @@
     "startup": "./kissmp-server",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:37.106Z"
+    "updatedAt": "2026-06-27T06:50:54.633Z"
   },
   {
     "slug": "black-mesa",
@@ -7802,7 +7802,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:37.357Z"
+    "updatedAt": "2026-06-27T06:50:54.892Z"
   },
   {
     "slug": "brickadia",
@@ -7896,7 +7896,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:37.594Z"
+    "updatedAt": "2026-06-27T06:50:55.147Z"
   },
   {
     "slug": "carrier-command-2",
@@ -8082,7 +8082,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:37.862Z"
+    "updatedAt": "2026-06-27T06:50:55.408Z"
   },
   {
     "slug": "citadel-forged-with-fire",
@@ -8151,7 +8151,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:38.127Z"
+    "updatedAt": "2026-06-27T06:50:55.666Z"
   },
   {
     "slug": "classicube-mgc",
@@ -8194,7 +8194,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:38.611Z"
+    "updatedAt": "2026-06-27T06:50:56.077Z"
   },
   {
     "slug": "clone-hero",
@@ -8261,7 +8261,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:38.883Z"
+    "updatedAt": "2026-06-27T06:50:56.410Z"
   },
   {
     "slug": "iw4x",
@@ -8392,7 +8392,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:39.339Z"
+    "updatedAt": "2026-06-27T06:50:56.827Z"
   },
   {
     "slug": "colony-survival",
@@ -8477,7 +8477,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:39.581Z"
+    "updatedAt": "2026-06-27T06:50:57.075Z"
   },
   {
     "slug": "conan-exiles-enhanced",
@@ -8618,7 +8618,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:39.853Z"
+    "updatedAt": "2026-06-27T06:50:57.325Z"
   },
   {
     "slug": "conan-exiles",
@@ -8741,7 +8741,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:39.856Z"
+    "updatedAt": "2026-06-27T06:50:57.350Z"
   },
   {
     "slug": "contagion",
@@ -8864,7 +8864,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:40.116Z"
+    "updatedAt": "2026-06-27T06:50:57.607Z"
   },
   {
     "slug": "core-keeper",
@@ -8996,7 +8996,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:40.328Z"
+    "updatedAt": "2026-06-27T06:50:57.896Z"
   },
   {
     "slug": "counter-strike-1-6-vanilla",
@@ -9117,7 +9117,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:40.728Z"
+    "updatedAt": "2026-06-27T06:50:58.302Z"
   },
   {
     "slug": "counter-strike-1-6-rehlds",
@@ -9240,7 +9240,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:40.942Z"
+    "updatedAt": "2026-06-27T06:50:58.560Z"
   },
   {
     "slug": "counter-strike-2",
@@ -9390,7 +9390,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:41.159Z"
+    "updatedAt": "2026-06-27T06:50:58.838Z"
   },
   {
     "slug": "counter-strike-source",
@@ -9473,7 +9473,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:41.468Z"
+    "updatedAt": "2026-06-27T06:50:59.092Z"
   },
   {
     "slug": "craftopia",
@@ -9533,7 +9533,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:41.730Z"
+    "updatedAt": "2026-06-27T06:50:59.352Z"
   },
   {
     "slug": "cryofall",
@@ -9584,7 +9584,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:41.941Z"
+    "updatedAt": "2026-06-27T06:50:59.614Z"
   },
   {
     "slug": "cs2d",
@@ -9642,7 +9642,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:42.184Z"
+    "updatedAt": "2026-06-27T06:50:59.863Z"
   },
   {
     "slug": "assaultcube",
@@ -9745,7 +9745,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:42.693Z"
+    "updatedAt": "2026-06-27T06:51:00.262Z"
   },
   {
     "slug": "cube-2-sauerbraten",
@@ -9812,7 +9812,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:42.991Z"
+    "updatedAt": "2026-06-27T06:51:00.530Z"
   },
   {
     "slug": "cubic-odyssey",
@@ -9963,7 +9963,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:43.200Z"
+    "updatedAt": "2026-06-27T06:51:00.777Z"
   },
   {
     "slug": "dayz",
@@ -10284,7 +10284,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:43.470Z"
+    "updatedAt": "2026-06-27T06:51:01.035Z"
   },
   {
     "slug": "ddnet",
@@ -10398,7 +10398,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:43.941Z"
+    "updatedAt": "2026-06-27T06:51:01.463Z"
   },
   {
     "slug": "ddracenetwork",
@@ -10473,7 +10473,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:44.257Z"
+    "updatedAt": "2026-06-27T06:51:01.808Z"
   },
   {
     "slug": "dead-matter",
@@ -10549,7 +10549,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:44.499Z"
+    "updatedAt": "2026-06-27T06:51:02.066Z"
   },
   {
     "slug": "don-t-starve-together",
@@ -10661,7 +10661,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:44.741Z"
+    "updatedAt": "2026-06-27T06:51:02.361Z"
   },
   {
     "slug": "zandronum",
@@ -10800,7 +10800,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:45.218Z"
+    "updatedAt": "2026-06-27T06:51:02.848Z"
   },
   {
     "slug": "eco",
@@ -10995,7 +10995,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:45.482Z"
+    "updatedAt": "2026-06-27T06:51:03.114Z"
   },
   {
     "slug": "stay-in-tarkov",
@@ -11071,7 +11071,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:45.715Z"
+    "updatedAt": "2026-06-27T06:51:03.378Z"
   },
   {
     "slug": "empyrion-galactic-survival",
@@ -11273,7 +11273,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:45.960Z"
+    "updatedAt": "2026-06-27T06:51:03.658Z"
   },
   {
     "slug": "enshrouded",
@@ -11396,7 +11396,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:46.173Z"
+    "updatedAt": "2026-06-27T06:51:03.903Z"
   },
   {
     "slug": "my-enshrouded-server",
@@ -11414,7 +11414,7 @@
     "startup": "",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:46.196Z"
+    "updatedAt": "2026-06-27T06:51:03.937Z"
   },
   {
     "slug": "clusterio",
@@ -11520,7 +11520,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:46.668Z"
+    "updatedAt": "2026-06-27T06:51:04.347Z"
   },
   {
     "slug": "factorio-modupdate",
@@ -11641,7 +11641,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:46.939Z"
+    "updatedAt": "2026-06-27T06:51:04.595Z"
   },
   {
     "slug": "factorio-arm64",
@@ -11810,7 +11810,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:47.181Z"
+    "updatedAt": "2026-06-27T06:51:04.845Z"
   },
   {
     "slug": "factorio",
@@ -11925,7 +11925,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:47.197Z"
+    "updatedAt": "2026-06-27T06:51:04.864Z"
   },
   {
     "slug": "fof",
@@ -11985,7 +11985,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:47.469Z"
+    "updatedAt": "2026-06-27T06:51:05.116Z"
   },
   {
     "slug": "fortresscraft-evolved",
@@ -12196,7 +12196,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:47.740Z"
+    "updatedAt": "2026-06-27T06:51:05.384Z"
   },
   {
     "slug": "foundry",
@@ -12373,7 +12373,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:48.039Z"
+    "updatedAt": "2026-06-27T06:51:05.633Z"
   },
   {
     "slug": "foundry-vtt",
@@ -12431,7 +12431,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:48.274Z"
+    "updatedAt": "2026-06-27T06:51:05.875Z"
   },
   {
     "slug": "frozen-flame",
@@ -12526,7 +12526,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:48.539Z"
+    "updatedAt": "2026-06-27T06:51:06.131Z"
   },
   {
     "slug": "tachyon",
@@ -12558,7 +12558,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:48.834Z"
+    "updatedAt": "2026-06-27T06:51:06.403Z"
   },
   {
     "slug": "garrys-mod",
@@ -12664,7 +12664,7 @@
       "gsl_token",
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:49.120Z"
+    "updatedAt": "2026-06-27T06:51:06.640Z"
   },
   {
     "slug": "ground-branch",
@@ -12786,7 +12786,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:49.368Z"
+    "updatedAt": "2026-06-27T06:51:06.880Z"
   },
   {
     "slug": "alt-v",
@@ -12849,7 +12849,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:49.772Z"
+    "updatedAt": "2026-06-27T06:51:07.294Z"
   },
   {
     "slug": "fivem",
@@ -12976,7 +12976,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:49.998Z"
+    "updatedAt": "2026-06-27T06:51:07.550Z"
   },
   {
     "slug": "grand-theft-auto-connected",
@@ -13041,7 +13041,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:50.290Z"
+    "updatedAt": "2026-06-27T06:51:07.815Z"
   },
   {
     "slug": "multi-theft-auto",
@@ -13081,7 +13081,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:50.562Z"
+    "updatedAt": "2026-06-27T06:51:08.065Z"
   },
   {
     "slug": "open-mp-server",
@@ -13099,7 +13099,7 @@
     "startup": "",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:50.893Z"
+    "updatedAt": "2026-06-27T06:51:08.331Z"
   },
   {
     "slug": "openmp",
@@ -13147,7 +13147,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:50.881Z"
+    "updatedAt": "2026-06-27T06:51:08.335Z"
   },
   {
     "slug": "ragecoop",
@@ -13187,7 +13187,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:51.164Z"
+    "updatedAt": "2026-06-27T06:51:08.583Z"
   },
   {
     "slug": "rage-mp-unofficial-server",
@@ -13206,7 +13206,7 @@
     "startup": "",
     "variables": [],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:51.446Z"
+    "updatedAt": "2026-06-27T06:51:08.844Z"
   },
   {
     "slug": "rage-mp",
@@ -13255,7 +13255,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:51.435Z"
+    "updatedAt": "2026-06-27T06:51:08.839Z"
   },
   {
     "slug": "sa-mp",
@@ -13304,7 +13304,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:51.688Z"
+    "updatedAt": "2026-06-27T06:51:09.120Z"
   },
   {
     "slug": "half-life-2-deathmatch",
@@ -13407,7 +13407,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:51.920Z"
+    "updatedAt": "2026-06-27T06:51:09.386Z"
   },
   {
     "slug": "custom-rehlds-engine-game",
@@ -13539,7 +13539,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:52.364Z"
+    "updatedAt": "2026-06-27T06:51:09.834Z"
   },
   {
     "slug": "custom-hlds-engine-game",
@@ -13653,7 +13653,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:52.587Z"
+    "updatedAt": "2026-06-27T06:51:10.093Z"
   },
   {
     "slug": "hogwarp",
@@ -13765,7 +13765,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:52.828Z"
+    "updatedAt": "2026-06-27T06:51:10.369Z"
   },
   {
     "slug": "holdfast-naw",
@@ -13907,7 +13907,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:53.125Z"
+    "updatedAt": "2026-06-27T06:51:10.635Z"
   },
   {
     "slug": "humanitz",
@@ -14406,7 +14406,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:53.369Z"
+    "updatedAt": "2026-06-27T06:51:10.921Z"
   },
   {
     "slug": "hurtworld",
@@ -14520,7 +14520,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:53.638Z"
+    "updatedAt": "2026-06-27T06:51:11.225Z"
   },
   {
     "slug": "hytale",
@@ -14625,7 +14625,7 @@
     "features": [
       "java_version"
     ],
-    "updatedAt": "2026-06-26T07:49:53.875Z"
+    "updatedAt": "2026-06-27T06:51:11.504Z"
   },
   {
     "slug": "icarus-dedicated",
@@ -14734,7 +14734,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:54.093Z"
+    "updatedAt": "2026-06-27T06:51:11.766Z"
   },
   {
     "slug": "insurgency-sandstorm",
@@ -14855,7 +14855,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:54.383Z"
+    "updatedAt": "2026-06-27T06:51:12.066Z"
   },
   {
     "slug": "iosoccer-server",
@@ -14941,7 +14941,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:54.680Z"
+    "updatedAt": "2026-06-27T06:51:12.356Z"
   },
   {
     "slug": "just-cause-3-multiplayer",
@@ -15075,7 +15075,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:55.119Z"
+    "updatedAt": "2026-06-27T06:51:12.801Z"
   },
   {
     "slug": "killing-floor-2",
@@ -15225,7 +15225,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:55.415Z"
+    "updatedAt": "2026-06-27T06:51:13.079Z"
   },
   {
     "slug": "ksp-dmp",
@@ -15307,7 +15307,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:55.857Z"
+    "updatedAt": "2026-06-27T06:51:13.512Z"
   },
   {
     "slug": "ksp-lmp",
@@ -15401,7 +15401,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:56.148Z"
+    "updatedAt": "2026-06-27T06:51:13.802Z"
   },
   {
     "slug": "left-4-dead",
@@ -15461,7 +15461,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:56.450Z"
+    "updatedAt": "2026-06-27T06:51:14.090Z"
   },
   {
     "slug": "left-4-dead-2",
@@ -15521,7 +15521,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:56.688Z"
+    "updatedAt": "2026-06-27T06:51:14.344Z"
   },
   {
     "slug": "longvinter",
@@ -15671,7 +15671,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:56.927Z"
+    "updatedAt": "2026-06-27T06:51:14.629Z"
   },
   {
     "slug": "lac-online-public-server",
@@ -15711,7 +15711,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:57.184Z"
+    "updatedAt": "2026-06-27T06:51:14.901Z"
   },
   {
     "slug": "midnight-ghost-hunt",
@@ -15852,7 +15852,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:49:57.431Z"
+    "updatedAt": "2026-06-27T06:51:15.193Z"
   },
   {
     "slug": "mindustry",
@@ -15910,7 +15910,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:57.729Z"
+    "updatedAt": "2026-06-27T06:51:15.483Z"
   },
   {
     "slug": "levilamina",
@@ -16013,7 +16013,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:58.437Z"
+    "updatedAt": "2026-06-27T06:51:16.138Z"
   },
   {
     "slug": "liteloader-bedrock-dedicated-server",
@@ -16116,7 +16116,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:58.679Z"
+    "updatedAt": "2026-06-27T06:51:16.456Z"
   },
   {
     "slug": "powernukkitx",
@@ -16156,7 +16156,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:58.977Z"
+    "updatedAt": "2026-06-27T06:51:16.740Z"
   },
   {
     "slug": "vanilla-bedrock-arm64",
@@ -16243,7 +16243,7 @@
     "features": [
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:49:59.276Z"
+    "updatedAt": "2026-06-27T06:51:17.020Z"
   },
   {
     "slug": "vanilla-bedrock",
@@ -16330,7 +16330,7 @@
     "features": [
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:49:59.268Z"
+    "updatedAt": "2026-06-27T06:51:17.017Z"
   },
   {
     "slug": "gomint",
@@ -16368,7 +16368,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:49:59.522Z"
+    "updatedAt": "2026-06-27T06:51:17.295Z"
   },
   {
     "slug": "nukkit",
@@ -16419,7 +16419,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:49:59.764Z"
+    "updatedAt": "2026-06-27T06:51:17.573Z"
   },
   {
     "slug": "pocketminemp",
@@ -16458,7 +16458,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:00.028Z"
+    "updatedAt": "2026-06-27T06:51:17.838Z"
   },
   {
     "slug": "purpur-geyser-floodgate",
@@ -16528,7 +16528,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:00.425Z"
+    "updatedAt": "2026-06-27T06:51:18.399Z"
   },
   {
     "slug": "arclight",
@@ -16610,7 +16610,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:00.851Z"
+    "updatedAt": "2026-06-27T06:51:18.830Z"
   },
   {
     "slug": "canvasmc",
@@ -16664,7 +16664,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:01.080Z"
+    "updatedAt": "2026-06-27T06:51:19.122Z"
   },
   {
     "slug": "cuberite",
@@ -16721,7 +16721,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:01.341Z"
+    "updatedAt": "2026-06-27T06:51:19.408Z"
   },
   {
     "slug": "curseforge-generic",
@@ -16782,7 +16782,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:01.584Z"
+    "updatedAt": "2026-06-27T06:51:19.718Z"
   },
   {
     "slug": "fabric",
@@ -16858,7 +16858,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:01.861Z"
+    "updatedAt": "2026-06-27T06:51:19.974Z"
   },
   {
     "slug": "folia",
@@ -16932,7 +16932,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:02.160Z"
+    "updatedAt": "2026-06-27T06:51:20.262Z"
   },
   {
     "slug": "forge-enhanced",
@@ -17009,7 +17009,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:02.422Z"
+    "updatedAt": "2026-06-27T06:51:20.608Z"
   },
   {
     "slug": "ftb-server",
@@ -17088,7 +17088,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:02.642Z"
+    "updatedAt": "2026-06-27T06:51:20.867Z"
   },
   {
     "slug": "glowstone",
@@ -17175,7 +17175,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:02.961Z"
+    "updatedAt": "2026-06-27T06:51:21.137Z"
   },
   {
     "slug": "krypton",
@@ -17229,7 +17229,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:03.210Z"
+    "updatedAt": "2026-06-27T06:51:21.499Z"
   },
   {
     "slug": "limbo",
@@ -17262,7 +17262,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:03.452Z"
+    "updatedAt": "2026-06-27T06:51:21.767Z"
   },
   {
     "slug": "magma",
@@ -17330,7 +17330,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:03.707Z"
+    "updatedAt": "2026-06-27T06:51:22.037Z"
   },
   {
     "slug": "modrinth-generic",
@@ -17381,7 +17381,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:04.001Z"
+    "updatedAt": "2026-06-27T06:51:22.312Z"
   },
   {
     "slug": "mohistmc",
@@ -17460,7 +17460,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:04.220Z"
+    "updatedAt": "2026-06-27T06:51:22.565Z"
   },
   {
     "slug": "nanolimbo",
@@ -17523,7 +17523,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:04.518Z"
+    "updatedAt": "2026-06-27T06:51:22.850Z"
   },
   {
     "slug": "neoforge",
@@ -17579,7 +17579,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:04.834Z"
+    "updatedAt": "2026-06-27T06:51:23.110Z"
   },
   {
     "slug": "paper",
@@ -17654,7 +17654,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:05.121Z"
+    "updatedAt": "2026-06-27T06:51:23.381Z"
   },
   {
     "slug": "purpur",
@@ -17722,7 +17722,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:05.353Z"
+    "updatedAt": "2026-06-27T06:51:23.697Z"
   },
   {
     "slug": "quilt",
@@ -17777,7 +17777,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:05.615Z"
+    "updatedAt": "2026-06-27T06:51:23.981Z"
   },
   {
     "slug": "spigot",
@@ -17845,7 +17845,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:05.863Z"
+    "updatedAt": "2026-06-27T06:51:24.237Z"
   },
   {
     "slug": "spongeforge",
@@ -17902,7 +17902,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:06.125Z"
+    "updatedAt": "2026-06-27T06:51:24.490Z"
   },
   {
     "slug": "spongevanilla",
@@ -17956,7 +17956,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:06.351Z"
+    "updatedAt": "2026-06-27T06:51:24.743Z"
   },
   {
     "slug": "tekkit-2",
@@ -17999,7 +17999,7 @@
       "eula",
       "java_version"
     ],
-    "updatedAt": "2026-06-26T07:50:06.820Z"
+    "updatedAt": "2026-06-27T06:51:25.216Z"
   },
   {
     "slug": "tekkit",
@@ -18043,7 +18043,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:07.063Z"
+    "updatedAt": "2026-06-27T06:51:25.503Z"
   },
   {
     "slug": "attack-of-the-b-team",
@@ -18087,7 +18087,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:07.390Z"
+    "updatedAt": "2026-06-27T06:51:25.772Z"
   },
   {
     "slug": "blightfall",
@@ -18131,7 +18131,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:07.686Z"
+    "updatedAt": "2026-06-27T06:51:26.037Z"
   },
   {
     "slug": "hexxit",
@@ -18175,7 +18175,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:07.929Z"
+    "updatedAt": "2026-06-27T06:51:26.312Z"
   },
   {
     "slug": "tekkit-classic",
@@ -18219,7 +18219,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:08.231Z"
+    "updatedAt": "2026-06-27T06:51:26.594Z"
   },
   {
     "slug": "tekkit-legends",
@@ -18263,7 +18263,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:08.502Z"
+    "updatedAt": "2026-06-27T06:51:26.888Z"
   },
   {
     "slug": "tekkit-smp",
@@ -18317,7 +18317,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:08.795Z"
+    "updatedAt": "2026-06-27T06:51:27.159Z"
   },
   {
     "slug": "the-1-12-2-pack",
@@ -18350,7 +18350,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:09.059Z"
+    "updatedAt": "2026-06-27T06:51:27.512Z"
   },
   {
     "slug": "the-1-7-10-pack",
@@ -18383,7 +18383,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:09.371Z"
+    "updatedAt": "2026-06-27T06:51:27.805Z"
   },
   {
     "slug": "vanillacord",
@@ -18442,7 +18442,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:09.719Z"
+    "updatedAt": "2026-06-27T06:51:28.080Z"
   },
   {
     "slug": "waterdog-pe",
@@ -18496,7 +18496,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:10.504Z"
+    "updatedAt": "2026-06-27T06:51:28.712Z"
   },
   {
     "slug": "waterdog-pe-ptero",
@@ -18549,7 +18549,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:10.489Z"
+    "updatedAt": "2026-06-27T06:51:28.712Z"
   },
   {
     "slug": "travertine",
@@ -18624,7 +18624,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:11.017Z"
+    "updatedAt": "2026-06-27T06:51:29.172Z"
   },
   {
     "slug": "velocity",
@@ -18696,7 +18696,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:11.281Z"
+    "updatedAt": "2026-06-27T06:51:29.452Z"
   },
   {
     "slug": "viaaas",
@@ -18747,7 +18747,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:11.570Z"
+    "updatedAt": "2026-06-27T06:51:29.756Z"
   },
   {
     "slug": "waterfall",
@@ -18819,7 +18819,7 @@
       "java_version",
       "pid_limit"
     ],
-    "updatedAt": "2026-06-26T07:50:11.805Z"
+    "updatedAt": "2026-06-27T06:51:30.051Z"
   },
   {
     "slug": "minetest",
@@ -18994,7 +18994,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:12.053Z"
+    "updatedAt": "2026-06-27T06:51:30.348Z"
   },
   {
     "slug": "modiverse",
@@ -19072,7 +19072,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:12.315Z"
+    "updatedAt": "2026-06-27T06:51:30.616Z"
   },
   {
     "slug": "mohaa",
@@ -19168,7 +19168,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:12.581Z"
+    "updatedAt": "2026-06-27T06:51:30.882Z"
   },
   {
     "slug": "mordhau-wine",
@@ -19318,7 +19318,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:12.840Z"
+    "updatedAt": "2026-06-27T06:51:31.167Z"
   },
   {
     "slug": "mordhau",
@@ -19432,7 +19432,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:12.836Z"
+    "updatedAt": "2026-06-27T06:51:31.175Z"
   },
   {
     "slug": "mount-blade-ii-bannerlord",
@@ -19535,7 +19535,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:13.162Z"
+    "updatedAt": "2026-06-27T06:51:31.456Z"
   },
   {
     "slug": "myth-of-empires",
@@ -19701,7 +19701,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:13.413Z"
+    "updatedAt": "2026-06-27T06:51:31.727Z"
   },
   {
     "slug": "necesse",
@@ -19788,7 +19788,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:13.664Z"
+    "updatedAt": "2026-06-27T06:51:31.994Z"
   },
   {
     "slug": "neosvr",
@@ -19891,7 +19891,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:13.972Z"
+    "updatedAt": "2026-06-27T06:51:32.290Z"
   },
   {
     "slug": "neverwinter-nights-enhanced-edition",
@@ -20102,7 +20102,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:14.233Z"
+    "updatedAt": "2026-06-27T06:51:32.552Z"
   },
   {
     "slug": "night-of-the-dead",
@@ -20278,7 +20278,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:14.551Z"
+    "updatedAt": "2026-06-27T06:51:32.806Z"
   },
   {
     "slug": "nmrih",
@@ -20339,7 +20339,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:14.793Z"
+    "updatedAt": "2026-06-27T06:51:33.104Z"
   },
   {
     "slug": "no-love-lost",
@@ -20417,7 +20417,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:15.033Z"
+    "updatedAt": "2026-06-27T06:51:33.357Z"
   },
   {
     "slug": "no-one-survived",
@@ -20601,7 +20601,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:15.291Z"
+    "updatedAt": "2026-06-27T06:51:33.630Z"
   },
   {
     "slug": "nova-life-amboise",
@@ -20679,7 +20679,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:15.533Z"
+    "updatedAt": "2026-06-27T06:51:33.887Z"
   },
   {
     "slug": "nuclear-option",
@@ -20773,7 +20773,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:15.767Z"
+    "updatedAt": "2026-06-27T06:51:34.150Z"
   },
   {
     "slug": "onset",
@@ -20833,7 +20833,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:16.003Z"
+    "updatedAt": "2026-06-27T06:51:34.484Z"
   },
   {
     "slug": "open-fortress",
@@ -20902,7 +20902,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:16.303Z"
+    "updatedAt": "2026-06-27T06:51:34.758Z"
   },
   {
     "slug": "openarena",
@@ -20940,7 +20940,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:16.592Z"
+    "updatedAt": "2026-06-27T06:51:35.010Z"
   },
   {
     "slug": "openra-dune2000",
@@ -21043,7 +21043,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:17.119Z"
+    "updatedAt": "2026-06-27T06:51:35.416Z"
   },
   {
     "slug": "openra",
@@ -21146,7 +21146,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:17.396Z"
+    "updatedAt": "2026-06-27T06:51:35.666Z"
   },
   {
     "slug": "openra-tiberian-dawn",
@@ -21249,7 +21249,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:17.698Z"
+    "updatedAt": "2026-06-27T06:51:35.976Z"
   },
   {
     "slug": "openrct2",
@@ -21451,7 +21451,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:17.960Z"
+    "updatedAt": "2026-06-27T06:51:36.283Z"
   },
   {
     "slug": "openttd-server",
@@ -21518,7 +21518,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:18.271Z"
+    "updatedAt": "2026-06-27T06:51:36.537Z"
   },
   {
     "slug": "operation-harsh-doorstop",
@@ -21632,7 +21632,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:18.567Z"
+    "updatedAt": "2026-06-27T06:51:36.812Z"
   },
   {
     "slug": "palworld-proton",
@@ -21773,7 +21773,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:18.855Z"
+    "updatedAt": "2026-06-27T06:51:37.070Z"
   },
   {
     "slug": "palworld",
@@ -21905,7 +21905,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:18.846Z"
+    "updatedAt": "2026-06-27T06:51:37.068Z"
   },
   {
     "slug": "path-of-titans",
@@ -22017,7 +22017,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:19.105Z"
+    "updatedAt": "2026-06-27T06:51:37.349Z"
   },
   {
     "slug": "pavlov-vr",
@@ -22104,7 +22104,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:19.385Z"
+    "updatedAt": "2026-06-27T06:51:37.630Z"
   },
   {
     "slug": "pixark",
@@ -22260,7 +22260,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:19.612Z"
+    "updatedAt": "2026-06-27T06:51:37.899Z"
   },
   {
     "slug": "plains-of-pain",
@@ -22392,7 +22392,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:19.834Z"
+    "updatedAt": "2026-06-27T06:51:38.171Z"
   },
   {
     "slug": "portal-knights",
@@ -22542,7 +22542,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:20.128Z"
+    "updatedAt": "2026-06-27T06:51:38.440Z"
   },
   {
     "slug": "post-scriptum",
@@ -22701,7 +22701,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:20.427Z"
+    "updatedAt": "2026-06-27T06:51:38.693Z"
   },
   {
     "slug": "project-zomboid",
@@ -22797,7 +22797,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:20.715Z"
+    "updatedAt": "2026-06-27T06:51:38.946Z"
   },
   {
     "slug": "puck",
@@ -22909,7 +22909,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:20.995Z"
+    "updatedAt": "2026-06-27T06:51:39.223Z"
   },
   {
     "slug": "quake-live",
@@ -23005,7 +23005,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:21.236Z"
+    "updatedAt": "2026-06-27T06:51:39.499Z"
   },
   {
     "slug": "r5reloaded",
@@ -23073,7 +23073,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:21.472Z"
+    "updatedAt": "2026-06-27T06:51:39.787Z"
   },
   {
     "slug": "redm",
@@ -23154,7 +23154,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:21.943Z"
+    "updatedAt": "2026-06-27T06:51:40.234Z"
   },
   {
     "slug": "renown",
@@ -23338,7 +23338,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:22.214Z"
+    "updatedAt": "2026-06-27T06:51:40.580Z"
   },
   {
     "slug": "resonite",
@@ -23441,7 +23441,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:22.454Z"
+    "updatedAt": "2026-06-27T06:51:40.850Z"
   },
   {
     "slug": "the-lord-of-the-rings-return-to-moria",
@@ -23537,7 +23537,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:22.713Z"
+    "updatedAt": "2026-06-27T06:51:41.129Z"
   },
   {
     "slug": "rimworld-open-world",
@@ -23641,7 +23641,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:23.143Z"
+    "updatedAt": "2026-06-27T06:51:41.534Z"
   },
   {
     "slug": "rimworld-together",
@@ -23693,7 +23693,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:23.423Z"
+    "updatedAt": "2026-06-27T06:51:41.790Z"
   },
   {
     "slug": "rising-world-java-legacy",
@@ -23798,7 +23798,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:23.863Z"
+    "updatedAt": "2026-06-27T06:51:42.215Z"
   },
   {
     "slug": "rising-world-unity",
@@ -23930,7 +23930,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:24.093Z"
+    "updatedAt": "2026-06-27T06:51:42.473Z"
   },
   {
     "slug": "risk-of-rain-2",
@@ -24081,7 +24081,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:24.378Z"
+    "updatedAt": "2026-06-27T06:51:42.726Z"
   },
   {
     "slug": "romestead",
@@ -24168,7 +24168,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:24.681Z"
+    "updatedAt": "2026-06-27T06:51:42.988Z"
   },
   {
     "slug": "rust-autowipe",
@@ -24372,7 +24372,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:25.131Z"
+    "updatedAt": "2026-06-27T06:51:43.404Z"
   },
   {
     "slug": "rust-staging",
@@ -24540,7 +24540,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:25.358Z"
+    "updatedAt": "2026-06-27T06:51:43.654Z"
   },
   {
     "slug": "satisfactory",
@@ -24663,7 +24663,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:25.633Z"
+    "updatedAt": "2026-06-27T06:51:43.899Z"
   },
   {
     "slug": "scp-sl",
@@ -24736,7 +24736,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:26.169Z"
+    "updatedAt": "2026-06-27T06:51:44.338Z"
   },
   {
     "slug": "scp-sl-exiled",
@@ -24814,7 +24814,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:26.400Z"
+    "updatedAt": "2026-06-27T06:51:44.589Z"
   },
   {
     "slug": "scum",
@@ -24955,7 +24955,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:26.623Z"
+    "updatedAt": "2026-06-27T06:51:44.837Z"
   },
   {
     "slug": "smalland-survive-the-wilds",
@@ -25123,7 +25123,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:26.857Z"
+    "updatedAt": "2026-06-27T06:51:45.148Z"
   },
   {
     "slug": "solace-crafting",
@@ -25172,7 +25172,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:27.078Z"
+    "updatedAt": "2026-06-27T06:51:45.413Z"
   },
   {
     "slug": "soldat",
@@ -25250,7 +25250,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:27.320Z"
+    "updatedAt": "2026-06-27T06:51:45.682Z"
   },
   {
     "slug": "soldat-2",
@@ -25351,7 +25351,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:27.595Z"
+    "updatedAt": "2026-06-27T06:51:45.937Z"
   },
   {
     "slug": "sonic-robo-blast-2",
@@ -25447,7 +25447,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:27.882Z"
+    "updatedAt": "2026-06-27T06:51:46.198Z"
   },
   {
     "slug": "sons-of-the-forest",
@@ -25615,7 +25615,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:28.176Z"
+    "updatedAt": "2026-06-27T06:51:46.455Z"
   },
   {
     "slug": "soulmask",
@@ -25754,7 +25754,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:28.439Z"
+    "updatedAt": "2026-06-27T06:51:46.707Z"
   },
   {
     "slug": "sourcecoop",
@@ -25895,7 +25895,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:28.677Z"
+    "updatedAt": "2026-06-27T06:51:46.968Z"
   },
   {
     "slug": "space-engineers",
@@ -26095,7 +26095,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:29.114Z"
+    "updatedAt": "2026-06-27T06:51:47.380Z"
   },
   {
     "slug": "space-engineers-torch-server",
@@ -26263,7 +26263,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:29.347Z"
+    "updatedAt": "2026-06-27T06:51:47.645Z"
   },
   {
     "slug": "spacestation-14",
@@ -26321,7 +26321,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:29.626Z"
+    "updatedAt": "2026-06-27T06:51:47.909Z"
   },
   {
     "slug": "squad",
@@ -26471,7 +26471,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:29.854Z"
+    "updatedAt": "2026-06-27T06:51:48.169Z"
   },
   {
     "slug": "starbound",
@@ -26558,7 +26558,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:30.141Z"
+    "updatedAt": "2026-06-27T06:51:48.496Z"
   },
   {
     "slug": "starmade",
@@ -26587,7 +26587,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:30.388Z"
+    "updatedAt": "2026-06-27T06:51:48.817Z"
   },
   {
     "slug": "stationeers-bepinex",
@@ -26722,7 +26722,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:30.838Z"
+    "updatedAt": "2026-06-27T06:51:49.228Z"
   },
   {
     "slug": "stationeers",
@@ -26853,7 +26853,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:31.124Z"
+    "updatedAt": "2026-06-27T06:51:49.510Z"
   },
   {
     "slug": "stormworks-build-and-rescue",
@@ -26976,7 +26976,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:31.366Z"
+    "updatedAt": "2026-06-27T06:51:49.768Z"
   },
   {
     "slug": "subnautica",
@@ -27144,7 +27144,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:31.662Z"
+    "updatedAt": "2026-06-27T06:51:50.017Z"
   },
   {
     "slug": "sunkenland",
@@ -27265,7 +27265,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:31.917Z"
+    "updatedAt": "2026-06-27T06:51:50.270Z"
   },
   {
     "slug": "sven-co-op",
@@ -27352,7 +27352,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:32.903Z"
+    "updatedAt": "2026-06-27T06:51:51.264Z"
   },
   {
     "slug": "swords-n-magic-and-stuff",
@@ -27500,7 +27500,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:33.162Z"
+    "updatedAt": "2026-06-27T06:51:51.526Z"
   },
   {
     "slug": "team-fortress-2-classic",
@@ -27586,7 +27586,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:33.422Z"
+    "updatedAt": "2026-06-27T06:51:51.780Z"
   },
   {
     "slug": "teeworlds",
@@ -27635,7 +27635,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:33.689Z"
+    "updatedAt": "2026-06-27T06:51:52.042Z"
   },
   {
     "slug": "tmodloader",
@@ -27757,7 +27757,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:34.185Z"
+    "updatedAt": "2026-06-27T06:51:52.457Z"
   },
   {
     "slug": "tshock-legacy",
@@ -27819,7 +27819,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:34.492Z"
+    "updatedAt": "2026-06-27T06:51:52.716Z"
   },
   {
     "slug": "tshock",
@@ -27880,7 +27880,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:34.482Z"
+    "updatedAt": "2026-06-27T06:51:52.724Z"
   },
   {
     "slug": "terraria-vanilla",
@@ -27992,7 +27992,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:34.730Z"
+    "updatedAt": "2026-06-27T06:51:53.025Z"
   },
   {
     "slug": "terratech-worlds",
@@ -28060,7 +28060,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:35.015Z"
+    "updatedAt": "2026-06-27T06:51:53.265Z"
   },
   {
     "slug": "the-forest",
@@ -28228,7 +28228,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:35.327Z"
+    "updatedAt": "2026-06-27T06:51:53.520Z"
   },
   {
     "slug": "the-isle",
@@ -28405,7 +28405,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:35.834Z"
+    "updatedAt": "2026-06-27T06:51:53.944Z"
   },
   {
     "slug": "the-front",
@@ -28627,7 +28627,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:36.110Z"
+    "updatedAt": "2026-06-27T06:51:54.206Z"
   },
   {
     "slug": "tower-unite",
@@ -28712,7 +28712,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:36.404Z"
+    "updatedAt": "2026-06-27T06:51:54.460Z"
   },
   {
     "slug": "trackmania",
@@ -28797,7 +28797,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:36.679Z"
+    "updatedAt": "2026-06-27T06:51:54.707Z"
   },
   {
     "slug": "american-truck-simulator-dedicated-server",
@@ -28875,7 +28875,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:37.140Z"
+    "updatedAt": "2026-06-27T06:51:55.124Z"
   },
   {
     "slug": "euro-truck-simulator-2-dedicated-server",
@@ -28953,7 +28953,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:37.577Z"
+    "updatedAt": "2026-06-27T06:51:55.538Z"
   },
   {
     "slug": "unturned",
@@ -29041,7 +29041,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:38.085Z"
+    "updatedAt": "2026-06-27T06:51:55.949Z"
   },
   {
     "slug": "urban-terror",
@@ -29180,7 +29180,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:38.365Z"
+    "updatedAt": "2026-06-27T06:51:56.199Z"
   },
   {
     "slug": "v-rising-bepinex",
@@ -29456,7 +29456,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:38.781Z"
+    "updatedAt": "2026-06-27T06:51:56.646Z"
   },
   {
     "slug": "v-rising",
@@ -29742,7 +29742,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:39.065Z"
+    "updatedAt": "2026-06-27T06:51:56.902Z"
   },
   {
     "slug": "valheim-bepinex",
@@ -29928,7 +29928,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:39.558Z"
+    "updatedAt": "2026-06-27T06:51:57.314Z"
   },
   {
     "slug": "valheim-plus-mod",
@@ -30141,7 +30141,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:39.836Z"
+    "updatedAt": "2026-06-27T06:51:57.588Z"
   },
   {
     "slug": "valheim",
@@ -30318,7 +30318,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:40.141Z"
+    "updatedAt": "2026-06-27T06:51:57.833Z"
   },
   {
     "slug": "vein",
@@ -30412,7 +30412,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:40.359Z"
+    "updatedAt": "2026-06-27T06:51:58.084Z"
   },
   {
     "slug": "veloren",
@@ -30470,7 +30470,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:40.649Z"
+    "updatedAt": "2026-06-27T06:51:58.325Z"
   },
   {
     "slug": "vintage-story",
@@ -30548,7 +30548,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:40.921Z"
+    "updatedAt": "2026-06-27T06:51:58.572Z"
   },
   {
     "slug": "voyagers-of-nera",
@@ -30651,7 +30651,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:41.180Z"
+    "updatedAt": "2026-06-27T06:51:58.832Z"
   },
   {
     "slug": "windrose",
@@ -30810,7 +30810,7 @@
     "features": [
       "steam_disk_space"
     ],
-    "updatedAt": "2026-06-26T07:50:41.428Z"
+    "updatedAt": "2026-06-27T06:51:59.069Z"
   },
   {
     "slug": "wine-generic",
@@ -30863,7 +30863,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:41.900Z"
+    "updatedAt": "2026-06-27T06:51:59.480Z"
   },
   {
     "slug": "et-legacy",
@@ -30921,7 +30921,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:42.375Z"
+    "updatedAt": "2026-06-27T06:51:59.885Z"
   },
   {
     "slug": "wurm-unlimited",
@@ -31060,7 +31060,7 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:42.634Z"
+    "updatedAt": "2026-06-27T06:52:00.142Z"
   },
   {
     "slug": "xonotic",
@@ -31100,6 +31100,6 @@
       }
     ],
     "features": [],
-    "updatedAt": "2026-06-26T07:50:42.920Z"
+    "updatedAt": "2026-06-27T06:52:00.406Z"
   }
 ]
